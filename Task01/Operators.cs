@@ -24,5 +24,10 @@ namespace Task01
     {
       Console.WriteLine("{0} / {1} = {2}", a, b, a / b);
     }
+
+    public void OddEvenFinder(int number)
+    {
+      Console.WriteLine("Then number is: {0}", number % 2 ==0 ? "true" : "false");
+    }
   }
 }
