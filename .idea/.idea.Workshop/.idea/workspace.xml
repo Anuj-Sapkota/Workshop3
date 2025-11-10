@@ -7,13 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eab433ac-9aba-423c-a77b-b01a952b72c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/Operators.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/Task01.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Workshop.sln" afterDir="false" />
-    </list>
+    <list default="true" id="eab433ac-9aba-423c-a77b-b01a952b72c8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762752144935</updated>
-      <workItem from="1762752148434" duration="828000" />
+      <workItem from="1762752148434" duration="1124000" />
     </task>
     <servers />
   </component>
